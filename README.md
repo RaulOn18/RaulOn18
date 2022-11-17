@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://raulon.vercel.app](https://raulon.vercel.app)
 
-- 📝 I regularly write articles on [helvetica-blog.vercel.app](helvetica-blog.vercel.app)
+- 📝 I regularly write articles on [https://helvetica-blog.vercel.app](https://helvetica-blog.vercel.app)
 
 - 💬 Ask me about **react, nextJs, Astro, Javascript Fundamental**
 
