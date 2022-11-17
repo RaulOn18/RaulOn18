@@ -11,14 +11,20 @@
 
 - 📝 I regularly write articles on [helvetica-blog.vercel.app](helvetica-blog.vercel.app)
 
+- 💬 Ask me about **react, nextJs, Astro, Javascript Fundamental**
+
 - 📫 How to reach me **radjaoke18@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ca2Orr3KQPtRqbfLyYlWQxP5tjIy79L1/view](https://drive.google.com/file/d/1Ca2Orr3KQPtRqbfLyYlWQxP5tjIy79L1/view)
 
+- ⚡ Fun fact **I think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@radjaghufron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@radjaghufron" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/radja fajrul guffran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="radja fajrul guffran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radja-fajrul-ghufron-a07827224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radja-fajrul-ghufron-a07827224" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11310884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11310884" height="30" width="40" /></a>
+<a href="https://instagram.com/raulon__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raulon__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
