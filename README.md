@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://helvetica-blog.vercel.app](https://helvetica-blog.vercel.app)
 
-- 💬 Ask me about **react, nextJs, Astro, Javascript Fundamental**
+- 💬 Ask me about **react, nextJs, Astro, Javascript Fundamental, Flutter, Dart, Kotlin, Laravel**
 
 - 📫 How to reach me **radjaoke18@gmail.com**
 
