@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulon18" alt="raulon18" /></a> </p>
 
-- 🌱 I’m currently learning **Astro, ReactJs, React Native, NextJs**
+- 🌱 I’m currently learning **Astro, ReactJs, React Native, NextJs, Flutter, Dart, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://raulon.vercel.app](https://raulon.vercel.app)
 
